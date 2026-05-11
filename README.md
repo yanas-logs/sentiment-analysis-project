@@ -5,7 +5,7 @@
 ![Dashboard Analisis Sentimen](assets/image-1.png)
 
 ```bash
-git clone https://github.com/yanas-logs/rekayasa-fitur.git
+git clone https://github.com/yanas-logs/sentiment-analysis-project.git
 
 cd rekayasa-fitur
 
