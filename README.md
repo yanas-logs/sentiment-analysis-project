@@ -7,7 +7,7 @@
 ```bash
 git clone https://github.com/yanas-logs/sentiment-analysis-project.git
 
-cd rekayasa-fitur
+cd sentiment-analysis-project
 
 pip install -r requirements.txt
 
